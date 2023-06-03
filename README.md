@@ -46,3 +46,5 @@ Contibute to this open source project - https://github.com/mage-ai/mage-ai
 
 https://lookerstudio.google.com/reporting/e25ecec4-b479-4c09-b594-d6f6b2a668ec
 
+<img src="Screenshot from 2023-06-03 10-00-38.png">
+
